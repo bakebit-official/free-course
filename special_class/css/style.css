@@ -1,0 +1,121 @@
+.parent{
+    margin: 20px 150px;
+}
+.mydiv{
+ 
+    height: 100px;
+    width: 200px;
+    color:#ffffff;
+    background-color: blue;
+    float: left;
+}
+.d2{
+
+    height: 100px;
+    height: 100px;
+    width: 200px;
+    color:#ffffff;
+    background-color: green;
+    float:left
+}
+
+/* 
+#test{
+    background-color: yellow;
+}
+
+div{
+    height: 200px;
+    width: 300px; 
+}
+
+.red{
+background-color: red; 
+}
+.redcol{
+    background-color: brown;
+}
+.green{
+    background-color: rgb(0,200,0);
+}
+
+.blue{
+    background-color: blue;
+}
+
+.long-div{
+    width: 100%;
+}
+ */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.nusrat{
+    height: 300px;
+    width: 300px;
+    margin:200px 200px;
+    background-color: pink;
+    overflow: scroll;
+}
+
+.roy{
+    margin:200px 20px;
+    background-color: yellow;
+    width: 200px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.khan{
+    background-color: blue;
+    width: 300px;
+}
+.akash{
+    background-color: green;
+    height: 300px;
+}  */
+
+.mydiv{
+    /* height: 500px;
+    width: 900px;
+    border: 10px groove  red;
+    border-radius: 30px; */
+    /* background-color: red; */
+    /* background-image: url("../image/hashi.png");
+    background-color: red;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px 100px;
+    background-attachment: fixed; */
+/* 
+    background: #0f175f url("../image/hashi.png") no-repeat center ; */
+
+}
+
+
+/* div{
+    height: 100px;
+    width: 200px;
+    color:#ffffff;
+
+}
+.khan{
+    background-color: blue;
+    display: inline;
+    height: 100px;
+    width: 200px;
+}
+
+.sifat{
+    background-color: red;
+    float: right;
+}
+.roy{
+    background-color: skyblue;
+    float:left;
+} */
+

@@ -1,0 +1,43 @@
+h1{
+   
+        text-shadow: 2px 4px 4px rgb(184, 74, 74);   
+}
+p{
+
+    font-family: 'Antonio', sans-serif;
+
+    border: 1px solid black;
+    padding: 12px;
+    color: blue;
+    text-align: justify;
+    /* direction: rtl; */
+    text-transform: capitalize;
+   
+
+/* 
+    font-style: oblique; */
+
+    font-weight: bold;
+
+ 
+
+    /* font: italic small-caps bold 12px/30px Georgia, serif; */
+
+}
+
+p span{
+    color:green;
+    font-size:25px;
+}
+
+.fa-bath{
+    font-size:50px!important;
+    color:red;
+}
+
+.map{
+    height: 300px;
+    width: 300;
+    display: block;
+    margin: 20px auto;
+}

@@ -1,0 +1,130 @@
+
+.block{
+    height: 600px;
+    width: 600px;
+    /* border: 20px outset  red; */
+    border-style: dashed;
+    border-color: red;
+    border-width: 5px;
+    border-top:2px solid blue;
+    border-bottom:3px dotted green;
+    /* border-radius: 50%; */
+
+
+    /* background-color: #a0c68c; */
+    /* background-color: rgb(90,20,200); */
+    /* background-image: linear-gradient(red, yellow, green, blue); */
+    background-color: blue;
+/* 
+    background-image: url('smile.png');
+    background-repeat:no-repeat;
+    background-position: center; */
+    background-size: 100px 100px;
+    background-attachment: fixed; /* relation with body */
+
+
+    /* alt + z = wrap */
+}
+
+.afia{
+    height: 300px;
+    width: 600px;
+    background-color: brown;
+
+    margin:200px auto;
+    position: relative ;
+
+   
+}
+
+.efti{
+
+    height: 200px;
+    width: 200px;
+    background-color: rgb(42, 71, 165);
+    margin-left:200px;
+    /* position:absolute;
+    top: -100px;
+    left: -400px ;
+    z-index: 1; */
+    
+
+}
+
+.efti:hover{
+    background-color: brown;
+}
+
+.fariya{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(77, 165, 42);
+    position: absolute;
+    top:200px;
+   
+
+}
+
+
+/*
+display: inline;
+display: block;
+*/
+/* 
+p{
+    display: none;
+}
+span{
+    display: block;
+} */
+
+
+a{
+        text-decoration: none;
+        color: green;
+     
+}
+
+
+
+a:visited{
+    color:yellow;
+}
+a:active {
+    color: blue;
+  }
+
+
+a:hover{
+    /* pseudo class */
+    color:red;
+}
+
+.bakebit{
+        text-decoration: none;
+        color: rgb(128, 26, 0);
+        border: 1px solid black;
+        padding:10px;
+        margin-top:60px;
+     
+}
+
+.bakebit:active{
+    color:blue;
+    background-color: rgb(127, 136, 255);
+}
+
+
+
+.bakebit:hover{
+    background-color: aquamarine;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+
+/* unordered list */
+

@@ -1,0 +1,46 @@
+/* .mytable{
+    border:1px dotted red;
+    width: 600px;
+    margin:20px auto;
+    border-collapse: collapse;
+}
+
+.mytable td{
+    padding: 50px;
+    border: 1px solid rgb(255, 94, 0);
+    background-color: red;
+    color:#fff;
+} */
+
+
+.form-part{
+    padding:10px 20px;
+    /* width: 50%; */
+}
+.form-part span{
+    
+    margin-right: 30px;
+    text-align: left;
+
+}
+.form-part input{
+    
+    margin-right: 30px;
+    text-align: left;
+    /* width: 40%; */
+
+}
+
+.form-table td input{
+    margin-left: 25px;
+}
+.form-table td{
+    padding-bottom:50px;
+}
+
+
+
+
+
+
+

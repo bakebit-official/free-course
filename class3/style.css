@@ -1,0 +1,79 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    padding: 10px 150px;
+}
+.mydiv{
+    height: 150px;
+    width: 120px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.mydiv img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+   
+    
+}
+
+.mydiv::after{
+    content:"";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rgb(11, 3, 37);
+    opacity: 0.5;
+    transition: margin-top 0.5s;
+    
+}
+
+.mydiv:hover::after{
+    margin-top: 150px;
+}
+
+/* .mydiv img{
+    height: 100px;
+    width: 80px;
+} */
+
+/* .red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    transition: width 2s;
+
+}
+.red:hover{
+    width:420px ;
+} */
+/* 
+.red::before{
+    content:"Hello";
+    background-color: rgb(9, 255, 0);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:40px;
+    left: 0px;
+    z-index:1;
+
+}
+
+.red::after{
+    content:"Hello";
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:20px;
+    left: 40px;
+    z-index:0;
+
+}
+ */
