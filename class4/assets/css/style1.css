@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+
+}
+
+.main{
+    margin:10px auto;
+    width: 1200px;
+}
+
+.common{
+    width: 33%;
+    height: 400px;
+    margin:10px 0%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.common h1{
+    font-size:25px;
+    color:#fff;
+}
+
+.block{
+ 
+  
+    background-color: red;
+ 
+}
+
+.block2{
+    background-color: rgb(0, 255, 13);
+  
+}
+
+.block3{
+    background-color: rgb(38, 0, 255);
+   
+}
